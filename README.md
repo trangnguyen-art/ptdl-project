@@ -31,21 +31,6 @@ Mục tiêu: nhận diện thương hiệu nổi bật, sản phẩm phổ biế
 ### 6. Word Cloud
 - Trích xuất từ khóa nổi bật trong đánh giá để nhận diện xu hướng.
 
----
-
-## 🖼 Demo kết quả
-
-### Top 10 thương hiệu phổ biến
-![Top Brands](images/top_brands.png)
-
-### Phân bố giá sản phẩm
-![Price Distribution](images/price_distribution.png)
-
-### Phân tích cảm xúc đánh giá khách hàng
-![Sentiment Analysis](images/sentiment_analysis.png)
-
-### Từ khóa nổi bật (Word Cloud)
-![Word Cloud](images/wordcloud.png)
 
 ---
 
